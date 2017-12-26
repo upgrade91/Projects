@@ -1,3 +1,5 @@
 Main Text file
 1226
+"vi" : 편집기
+git log : 
 
